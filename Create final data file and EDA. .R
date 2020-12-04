@@ -6,7 +6,6 @@
 ## -----------------------------------------------------------------------------
 
 library(dplyr)
-library(mefa)
 library(gtools)
 library(ggplot2)
 library(readxl)
